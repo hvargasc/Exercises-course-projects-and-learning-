@@ -13,3 +13,4 @@ print(np.mean(curved_10))
 
 curved_sqrt = [math.sqrt(score) * 10 for score in test_scores]
 print(np.mean(curved_sqrt))
+336+3
