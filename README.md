@@ -6,7 +6,7 @@ Exercises, course projects and learning by programing Python, Machine Learning, 
 
 # List of courses and certifications
 ✨| Online Couses Name | Platform | Status | Completion rate
---- | ---| ---| ---|
+--- | ---| ---| ---| ---
 1 | AWS Academy Cloud Foundations | AWS Academy | &#9745; | 100%
 2 | AWS Academy Machine Learning Foundations | AWS Academy | &#9745; | 100%
 3 | AWS Machine Learning Foundations | Udacity |  &#9744; | 95%
@@ -23,5 +23,3 @@ Exercises, course projects and learning by programing Python, Machine Learning, 
  &#9745; Means that the particular Course is completed 🎉
  
  Made with :heart: by [Shivansh](https://github.com/hvargasc)
- 
- 
