@@ -22,6 +22,6 @@ Exercises, course projects and learning by programing Python, Machine Learning, 
  &#9746; Means that the particular Course is under progress 👨‍💻 <br>
  &#9745; Means that the particular Course is completed 🎉
  
- Made with :heart: by [Harold Vargas](https://github.com/hvargasc)
+ Made with by [Harold Vargas](https://github.com/hvargasc)
 
  
