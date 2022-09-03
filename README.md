@@ -1,5 +1,5 @@
 # Exercises-course-projects-and-learning-
-Exercises, course projects and learning by programing Python, Machine Learning, Data Analytics, Cloud Infrastructure 
+Exercises, course projects and learning by programing Python, Machine Learning, Data Analytics and Cloud Infrastructure 
 
 
 ![Banner](https://github.com/hvargasc/Exercises-course-projects-and-learning-/blob/main/BannerGit.gif)
