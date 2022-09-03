@@ -5,7 +5,7 @@ Exercises, course projects and learning by programing Python, Machine Learning, 
 ![Banner](https://github.com/hvargasc/Exercises-course-projects-and-learning-/blob/main/BannerGit.gif)
 
 # List of courses and certifications
-✨| Online Couses Name | Platform | Status | Completion rate
+✨| Online Courses Name | Platform | Status | Completion rate
 --- | ---| ---| ---| ---
 1 | AWS Academy Cloud Foundations | AWS Academy | &#9745; | 100%
 2 | AWS Academy Machine Learning Foundations | AWS Academy | &#9745; | 100%
@@ -22,4 +22,6 @@ Exercises, course projects and learning by programing Python, Machine Learning, 
  &#9746; Means that the particular Course is under progress 👨‍💻 <br>
  &#9745; Means that the particular Course is completed 🎉
  
- Made with :heart: by [Shivansh](https://github.com/hvargasc)
+ Made with :heart: by [Harold Vargas](https://github.com/hvargasc)
+
+ 
